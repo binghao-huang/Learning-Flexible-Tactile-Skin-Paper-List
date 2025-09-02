@@ -26,12 +26,14 @@ Feel free to pull a request for new papers/codes about pressure tactile sensor i
 
 ## Hardware-Focus
 - [ArXiv 2024.11](https://arxiv.org/abs/2412.00247), WiReSens Toolkit: An Open-source Platform towards Accessible Wireless Tactile Sensing, [website](https://touchdexterity.github.io/).
-- [Nature Communications 2024.1](https://www.nature.com/articles/s41467-024-45059-8), Adaptive tactile interaction transfer via digitally embroidered smart gloves.
-- [Nature Electronics 2021.03](https://www.nature.com/articles/s41928-021-00558-0), Learning Human-environment Interactions using Conformal Tactile Textiles，[website](https://senstextile.csail.mit.edu/).
-- [Nature 2019.05](https://www.nature.com/articles/s41586-019-1234-z), Learning the signatures of the human grasp using a scalable tactile glove, [website](https://stag.csail.mit.edu/).
+- [Nature Communications 2024](https://www.nature.com/articles/s41467-024-45059-8), Adaptive tactile interaction transfer via digitally embroidered smart gloves.
+- [Nature Electronics 2021](https://www.nature.com/articles/s41928-021-00558-0), Learning Human-environment Interactions using Conformal Tactile Textiles，[website](https://senstextile.csail.mit.edu/).
+- [Nature 2019](https://www.nature.com/articles/s41586-019-1234-z), Learning the signatures of the human grasp using a scalable tactile glove, [website](https://stag.csail.mit.edu/).
+- [Arxiv 2025](https://arxiv.org/abs/2503.06349), Fits like a Flex-Glove: Automatic Design of Personalized FPCB-Based Tactile Sensing Gloves
+
 
 
 ## Dynamics Model with Pressure Tactile Sensor
-- [IROS 2021.09](https://arxiv.org/abs/2109.04378), Dynamic Modeling of Hand-Object Interactions via Tactile Sensing, [website](https://phystouch.csail.mit.edu/).
+- [IROS 2021](https://arxiv.org/abs/2109.04378), Dynamic Modeling of Hand-Object Interactions via Tactile Sensing, [website](https://phystouch.csail.mit.edu/).
 
 
