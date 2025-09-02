@@ -13,7 +13,7 @@ Feel free to pull a request for new papers/codes about pressure tactile sensor i
 
 ## Reinforcement Learning with Pressure Tactile Sensor
 - [CoRL 2025] VT-Refine: Learning Bimanual Assembly with Visuo-Tactile Feedback via Simulation Fine-Tuning, [website](https://binghao-huang.github.io/vt_refine/).
-- DexSkin: High-Coverage Conformable Robotic Skin for Learning Contact-Rich Manipulation.
+- [CoRL 2025] DexSkin: High-Coverage Conformable Robotic Skin for Learning Contact-Rich Manipulation.
 - [CoRL 2025](https://arxiv.org/abs/2505.23175), LocoTouch: Learning Dexterous Quadrupedal Transport with Tactile Sensing, [website](https://linchangyi1.github.io/LocoTouch/).
 - **[Open-Source]**[ICRA 2023](https://arxiv.org/abs/2312.01853), Robot Synesthesia: In-Hand Manipulation with Visuotactile Sensing, [website](https://yingyuan0414.github.io/visuotactile/).
 - **[Open-Source]**[ICRA 2023](https://arxiv.org/abs/2306.16857), ArrayBot: Reinforcement Learning for Generalizable Distributed Manipulation through Touch
