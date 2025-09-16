@@ -1,4 +1,4 @@
-# Pressure-Tactile-Sensor-Robot-Learning [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
+# Learning-Resistive-Tactile-Paper-List [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 
 **Basic Info.** This repo collects academic papers about **learning with pressure tactile sensor**. The papers with both **learning** and **matrix-based flexible tactile sensor** are preferred in this list. 
 
