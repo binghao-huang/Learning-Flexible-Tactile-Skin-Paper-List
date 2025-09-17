@@ -4,14 +4,14 @@
 
 Feel free to pull a request for new papers/codes about flexible tactile skin tactile sensor in robot learning.
 
-## Imitation Learning with flexible tactile skin Tactile Sensor
+## Imitation Learning with Flexible Tactile Skin
 - **[Open-Source]** [CoRL 2024](https://arxiv.org/abs/2410.24091), 3D-ViTac: Learning Fine-Grained Manipulation with Visuo-Tactile Sensing, [website](https://binghao-huang.github.io/3D-ViTac/).
 - **[Open-Source]** [ArXiv 2025](https://arxiv.org/abs/2507.15062), Touch in the Wild: Learning Fine-Grained Manipulation with a Portable Visuo-Tactile Gripper, [website](https://binghao-huang.github.io/touch_in_the_wild/).
 - [Arxiv 2025](https://arxiv.org/abs/2508.14441), FBI: Learning Dexterous In-hand Manipulation with DynamicVisuotactile Shortcut Policy, [website](https://sites.google.com/view/dex-fbi)
 
 
 
-## Reinforcement Learning with flexible tactile skin Tactile Sensor
+## Reinforcement Learning with Flexible Tactile Skin
 - [CoRL 2025] VT-Refine: Learning Bimanual Assembly with Visuo-Tactile Feedback via Simulation Fine-Tuning, [website](https://binghao-huang.github.io/vt_refine/).
 - [CoRL 2025] DexSkin: High-Coverage Conformable Robotic Skin for Learning Contact-Rich Manipulation.
 - [CoRL 2025](https://arxiv.org/abs/2505.23175), LocoTouch: Learning Dexterous Quadrupedal Transport with Tactile Sensing, [website](https://linchangyi1.github.io/LocoTouch/).
@@ -33,7 +33,7 @@ Feel free to pull a request for new papers/codes about flexible tactile skin tac
 
 
 
-## Dynamics Model with flexible tactile skin Tactile Sensor
+## Dynamics Model with Flexible Tactile Skin 
 - [IROS 2021](https://arxiv.org/abs/2109.04378), Dynamic Modeling of Hand-Object Interactions via Tactile Sensing, [website](https://phystouch.csail.mit.edu/).
 
 
