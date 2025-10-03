@@ -12,8 +12,8 @@ Feel free to pull a request for new papers/codes about flexible tactile skin tac
 
 
 ## Reinforcement Learning with Flexible Tactile Skin
-- [CoRL 2025] VT-Refine: Learning Bimanual Assembly with Visuo-Tactile Feedback via Simulation Fine-Tuning, [website](https://binghao-huang.github.io/vt_refine/).
-- [CoRL 2025] DexSkin: High-Coverage Conformable Robotic Skin for Learning Contact-Rich Manipulation.
+- [CoRL 2025](https://openreview.net/forum?id=mV3W5givYb) VT-Refine: Learning Bimanual Assembly with Visuo-Tactile Feedback via Simulation Fine-Tuning, [website](https://binghao-huang.github.io/vt_refine/).
+- [CoRL 2025](https://www.arxiv.org/abs/2509.18830) DexSkin: High-Coverage Conformable Robotic Skin for Learning Contact-Rich Manipulation.
 - [CoRL 2025](https://arxiv.org/abs/2505.23175), LocoTouch: Learning Dexterous Quadrupedal Transport with Tactile Sensing, [website](https://linchangyi1.github.io/LocoTouch/).
 - **[Open-Source]**[ICRA 2023](https://arxiv.org/abs/2312.01853), Robot Synesthesia: In-Hand Manipulation with Visuotactile Sensing, [website](https://yingyuan0414.github.io/visuotactile/).
 - **[Open-Source]**[ICRA 2023](https://arxiv.org/abs/2306.16857), ArrayBot: Reinforcement Learning for Generalizable Distributed Manipulation through Touch
@@ -23,7 +23,7 @@ Feel free to pull a request for new papers/codes about flexible tactile skin tac
 
 ## Multi-Sensory Learning
 - [ICRL 2024](https://openreview.net/pdf?id=NtQqIcSbqv), Learning to Jointly Understand Visual and Tactile Signals, [website](https://sites.google.com/view/iclr-submission-force-vision/home?authuser=3).
-- [ArXiv 2025](https://arxiv.org/pdf/2509.23468), Multi-Modal Manipulation via Multi-Modal Policy Consensus.
+- [ArXiv 2025](https://arxiv.org/abs/2509.23468), Multi-Modal Manipulation via Multi-Modal Policy Consensus.
 
 ## Hardware-Focus
 - [ArXiv 2024.11](https://arxiv.org/abs/2412.00247), WiReSens Toolkit: An Open-source Platform towards Accessible Wireless Tactile Sensing, [website](https://touchdexterity.github.io/).
