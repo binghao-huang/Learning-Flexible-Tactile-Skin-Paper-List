@@ -6,7 +6,7 @@ Feel free to pull a request for new papers/codes about flexible tactile skin tac
 
 ## Imitation Learning with Flexible Tactile Skin
 - **[Open-Source]** [CoRL 2024](https://arxiv.org/abs/2410.24091), 3D-ViTac: Learning Fine-Grained Manipulation with Visuo-Tactile Sensing, [website](https://binghao-huang.github.io/3D-ViTac/).
-- **[Open-Source]** [ArXiv 2025](https://arxiv.org/abs/2507.15062), Touch in the Wild: Learning Fine-Grained Manipulation with a Portable Visuo-Tactile Gripper, [website](https://binghao-huang.github.io/touch_in_the_wild/).
+- **[Open-Source]** [NeurIPS 2025](https://arxiv.org/abs/2507.15062), Touch in the Wild: Learning Fine-Grained Manipulation with a Portable Visuo-Tactile Gripper, [website](https://binghao-huang.github.io/touch_in_the_wild/).
 - [Arxiv 2025](https://arxiv.org/abs/2508.14441), FBI: Learning Dexterous In-hand Manipulation with DynamicVisuotactile Shortcut Policy, [website](https://sites.google.com/view/dex-fbi)
 
 
