@@ -23,6 +23,7 @@ Feel free to pull a request for new papers/codes about flexible tactile skin tac
 
 ## Multi-Sensory Learning
 - [ICRL 2024](https://openreview.net/pdf?id=NtQqIcSbqv), Learning to Jointly Understand Visual and Tactile Signals, [website](https://sites.google.com/view/iclr-submission-force-vision/home?authuser=3).
+- [ArXiv 2025](https://arxiv.org/pdf/2509.23468), Multi-Modal Manipulation via Multi-Modal Policy Consensus.
 
 ## Hardware-Focus
 - [ArXiv 2024.11](https://arxiv.org/abs/2412.00247), WiReSens Toolkit: An Open-source Platform towards Accessible Wireless Tactile Sensing, [website](https://touchdexterity.github.io/).
